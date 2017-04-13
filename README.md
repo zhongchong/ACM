@@ -7,7 +7,7 @@ e.g. 1000.cpp is the solution of problem id 1000
 
 HDOJ Directory: HDOJ Source Code Backup
 
-Leetcode: Leetcode Source Code Backup
+Leetcode Directory: Leetcode Source Code Backup
 
 ## Author
 Zhong Chong
